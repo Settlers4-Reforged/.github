@@ -13,10 +13,10 @@ This should be a community wide collaboration on bringing the best out of Settle
 - NuGet: https://www.nuget.org/profiles/Settlers4-Reforged
   
   The home for all development packages. Just fetch what you need, when you develop your own packages.
-- Sentry: TBD
+- Sentry: https://settlers-4-reforged.sentry.io/issues/
   
   Error Logging and feedback collection site.
-  This is still TBD, because we are still searching for a good platform that can allow more than one user (Maybe we self host it, as it's not critical infrastructure)
+  _Only members of this GitHub organization have access to the Sentry platform_
 
 ## Overview
 Settlers 4 - Reforged and Forge itself is made up of various smaller components.
@@ -30,3 +30,14 @@ Here is a small overview. For a more indepth explanation on how everything works
 | ![S4Forge.UX-Engine](https://img.shields.io/github/v/release/Settlers4-Reforged/S4Forge.UX-Engine?sort=date&display_name=release&label=S4Forge.UX-Engine&color=green) | Everything UI and Sound related lives here |
 | ![S4Forge.SDLModule](https://img.shields.io/github/v/release/Settlers4-Reforged/S4Forge.SDLModule?sort=date&display_name=release&label=S4Forge.SDLModule&color=green) | The main renderer for the UX-Engine |
 | ![S4Forge.DebugModule](https://img.shields.io/github/v/release/Settlers4-Reforged/S4Forge.DebugModule?sort=date&display_name=release&label=S4Forge.DebugModule&color=green) | A small module to showcase how to develop modules yourself |
+
+# Credits
+
+Current active members:
+- [WizzardMaker](https://github.com/orgs/Settlers4-Reforged/people/WizzardMaker)
+- [kdsystem1337](https://github.com/orgs/Settlers4-Reforged/people/kdsystem1337)
+- [fbreuss](https://github.com/orgs/Settlers4-Reforged/people/fbreuss)
+
+Thanks to Sentry for supporting us!
+
+![Sentry](https://sentry-brand.storage.googleapis.com/sentry-wordmark-dark-280x84.png)
