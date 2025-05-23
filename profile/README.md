@@ -24,12 +24,12 @@ Here is a small overview. For a more indepth explanation on how everything works
 
 | Latest version | Description |
 | - | - |
-| ![S4Forge.SDK](https://img.shields.io/github/v/tag/Settlers4-Reforged/S4Forge.SDK?sort=date&display_name=release&label=S4Forge.SDK&color=green) | The SDK for when you want to create your own modules for Settlers 4 |
-| ![S4Forge](https://img.shields.io/github/v/release/Settlers4-Reforged/S4Forge?sort=date&display_name=release&label=S4Forge&color=green) | The main library for interacting with Settlers 4 and for loading all modules |
-| ![S4Forge.Bootstrapper](https://img.shields.io/github/v/release/Settlers4-Reforged/S4Forge.Bootstrapper?sort=date&display_name=release&label=S4Forge.Bootstrapper&color=green) | The bootstrapper to load .Net and S4Forge |
-| ![S4Forge.UX-Engine](https://img.shields.io/github/v/release/Settlers4-Reforged/S4Forge.UX-Engine?sort=date&display_name=release&label=S4Forge.UX-Engine&color=green) | Everything UI and Sound related lives here |
-| ![S4Forge.SDLModule](https://img.shields.io/github/v/release/Settlers4-Reforged/S4Forge.SDLModule?sort=date&display_name=release&label=S4Forge.SDLModule&color=green) | The main renderer for the UX-Engine |
-| ![S4Forge.DebugModule](https://img.shields.io/github/v/release/Settlers4-Reforged/S4Forge.DebugModule?sort=date&display_name=release&label=S4Forge.DebugModule&color=green) | A small module to showcase how to develop modules yourself |
+| <a href="https://github.com/Settlers4-Reforged/S4Forge.SDK"><img src="https://img.shields.io/github/v/tag/Settlers4-Reforged/S4Forge.SDK?sort=date&display_name=release&label=S4Forge.SDK&color=green"/></a> | The SDK for when you want to create your own modules for Settlers 4 |
+| <a href="https://github.com/Settlers4-Reforged/S4Forge"> <img src="https://img.shields.io/github/v/release/Settlers4-Reforged/S4Forge?sort=date&display_name=release&label=S4Forge&color=green"/> </a> | The main library for interacting with Settlers 4 and for loading all modules |
+| <a href="https://github.com/Settlers4-Reforged/S4Forge.Bootstrapper"> <img src="https://img.shields.io/github/v/release/Settlers4-Reforged/S4Forge.Bootstrapper?sort=date&display_name=release&label=S4Forge.Bootstrapper&color=green"/> </a> | The bootstrapper to load .Net and S4Forge |
+| <a href="https://github.com/Settlers4-Reforged/S4Forge.UX-Engine"> <img src="https://img.shields.io/github/v/release/Settlers4-Reforged/S4Forge.UX-Engine?sort=date&display_name=release&label=S4Forge.UX-Engine&color=green"/> </a> | Everything UI and Sound related lives here |
+| <a href="https://github.com/Settlers4-Reforged/S4Forge.SDLModule"> <img src="https://img.shields.io/github/v/release/Settlers4-Reforged/S4Forge.SDLModule?sort=date&display_name=release&label=S4Forge.SDLModule&color=green"/> </a> | The main renderer for the UX-Engine |
+| <a href="https://github.com/Settlers4-Reforged/S4Forge.DebugModule"> <img src="https://img.shields.io/github/v/release/Settlers4-Reforged/S4Forge.DebugModule?sort=date&display_name=release&label=S4Forge.DebugModule&color=green"/> </a> | A small module to showcase how to develop modules yourself |
 
 # Credits
 
@@ -40,4 +40,6 @@ Current active members:
 
 Thanks to Sentry for supporting us!
 
-![Sentry](https://sentry-brand.storage.googleapis.com/sentry-wordmark-dark-280x84.png)
+<a href="https://sentry.io/?utm_source=github&utm_medium=logo" target="_blank">
+  <img src="https://sentry-brand.storage.googleapis.com/sentry-wordmark-dark-280x84.png" alt="Sentry" width="280" height="84" />
+</a>
